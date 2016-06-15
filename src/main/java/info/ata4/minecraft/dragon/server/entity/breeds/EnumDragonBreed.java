@@ -27,10 +27,21 @@ public enum EnumDragonBreed implements IStringSerializable {
     END(1, DragonBreedEnd::new),
     FIRE(2, DragonBreedFire::new),
     FOREST(3, DragonBreedForest::new),
-    GHOST(4, DragonBreedGhost::new),
+    SKELETON(4, DragonBreedSkeleton::new),
     ICE(5, DragonBreedIce::new),
     NETHER(6, DragonBreedNether::new),
-    WATER(7, DragonBreedWater::new);
+    WATER(7, DragonBreedWater::new),
+    COAL(8, DragonBreedCoal::new),
+    DESERT(9, DragonBreedDesert::new),
+    DIAMOND(10, DragonBreedDiamond::new),
+    EMERALD(11, DragonBreedEmerald::new),
+    GOLD(12, DragonBreedGold::new),
+    JUNGLE(13, DragonBreedJungle::new),
+    PINK(14, DragonBreedPink::new),
+    PURPLE(15, DragonBreedPurple::new),
+    REDSTONE(16, DragonBreedRedstone::new),
+    SHADOW(17, DragonBreedShadow::new),
+    STONE(18, DragonBreedStone::new);
     
     public static final EnumDragonBreed DEFAULT = END;
     

@@ -1,12 +1,23 @@
 entity.DragonMounts.DragonMount.air.name=Aether Dragon
 entity.DragonMounts.DragonMount.end.name=Ender Dragon
 entity.DragonMounts.DragonMount.fire.name=Fire Dragon
-entity.DragonMounts.DragonMount.ghost.name=Ghost Dragon
+entity.DragonMounts.DragonMount.skeleton.name=Skeleton Dragon
 entity.DragonMounts.DragonMount.ice.name=Ice Dragon
 entity.DragonMounts.DragonMount.name=Ender Dragon
 entity.DragonMounts.DragonMount.nether.name=Nether Dragon
 entity.DragonMounts.DragonMount.water.name=Water Dragon
 entity.DragonMounts.DragonMount.forest.name=Forest Dragon
+entity.DragonMounts.DragonMount.coal.name=Coal Dragon
+entity.DragonMounts.DragonMount.desert.name=Desert Dragon
+entity.DragonMounts.DragonMount.diamond.name=Diamond Dragon
+entity.DragonMounts.DragonMount.emerald.name=Emerald Dragon
+entity.DragonMounts.DragonMount.gold.name=Gold Dragon
+entity.DragonMounts.DragonMount.jungle.name=Jungle Dragon
+entity.DragonMounts.DragonMount.pink.name=Pink Dragon
+entity.DragonMounts.DragonMount.purple.name=Purple Dragon
+entity.DragonMounts.DragonMount.redstone.name=Redstone Dragon
+entity.DragonMounts.DragonMount.shadow.name=Shadow Dragon
+entity.DragonMounts.DragonMount.stone.name=Stone Dragon
 
 commands.dragon.nodragons=There are no dragons nearby
 commands.dragon.canttame=You cannot tame dragons

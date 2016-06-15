@@ -31,7 +31,7 @@ public class DragonBreedForest extends DragonBreed {
     private static final int GRASS_LIGHT_THRESHOLD = 4;
     
     DragonBreedForest() {
-        super("forest", 0x2d6e00);
+        super("forest", 0x136e00);
         
         addHabitatBlock(Blocks.LOG);
         addHabitatBlock(Blocks.LOG2);
@@ -45,8 +45,6 @@ public class DragonBreedForest extends DragonBreed {
         
         addHabitatBiome(Biomes.FOREST);
         addHabitatBiome(Biomes.FOREST_HILLS);
-        addHabitatBiome(Biomes.JUNGLE);
-        addHabitatBiome(Biomes.JUNGLE_HILLS);
     }
     
     @Override

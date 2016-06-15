@@ -6,14 +6,25 @@
     },
     "variants": {
         "breed": {
-            "air":    { "textures": { "all": "dragonmounts:entities/dragon/aether/egg"  } },
-            "end":    { "textures": { "all": "dragonmounts:entities/dragon/ender/egg"   } },
+            "air":    { "textures": { "all": "dragonmounts:entities/dragon/air/egg"  } },
+            "end":    { "textures": { "all": "dragonmounts:entities/dragon/end/egg"   } },
             "fire":   { "textures": { "all": "dragonmounts:entities/dragon/fire/egg"    } },
             "forest": { "textures": { "all": "dragonmounts:entities/dragon/forest/egg"  } },
-            "ghost":  { "textures": { "all": "dragonmounts:entities/dragon/undead/egg"  } },
+            "skeleton":  { "textures": { "all": "dragonmounts:entities/dragon/skeleton/egg"  } },
             "ice":    { "textures": { "all": "dragonmounts:entities/dragon/ice/egg"     } },
             "nether": { "textures": { "all": "dragonmounts:entities/dragon/nether/egg"  } },
-            "water":  { "textures": { "all": "dragonmounts:entities/dragon/sylphid/egg" } }
+            "water":  { "textures": { "all": "dragonmounts:entities/dragon/water/egg" } },
+            "coal":  { "textures": { "all": "dragonmounts:entities/dragon/coal/egg" } },
+            "desert":  { "textures": { "all": "dragonmounts:entities/dragon/desert/egg" } },
+            "diamond":  { "textures": { "all": "dragonmounts:entities/dragon/diamond/egg" } },
+            "emerald":  { "textures": { "all": "dragonmounts:entities/dragon/emerald/egg" } },
+            "gold":  { "textures": { "all": "dragonmounts:entities/dragon/gold/egg" } },
+            "jungle":  { "textures": { "all": "dragonmounts:entities/dragon/jungle/egg" } },
+            "pink":  { "textures": { "all": "dragonmounts:entities/dragon/pink/egg" } },
+            "purple":  { "textures": { "all": "dragonmounts:entities/dragon/purple/egg" } },
+            "redstone":  { "textures": { "all": "dragonmounts:entities/dragon/redstone/egg" } },
+            "shadow":  { "textures": { "all": "dragonmounts:entities/dragon/shadow/egg" } },
+            "stone":  { "textures": { "all": "dragonmounts:entities/dragon/stone/egg" } }
         }
     }
 }

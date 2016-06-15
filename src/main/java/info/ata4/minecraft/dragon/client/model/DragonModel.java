@@ -282,7 +282,7 @@ public class DragonModel extends ModelBase {
     
     private void buildLeg(boolean hind) {
         // thinner legs for skeletons
-        boolean skeleton = breed == EnumDragonBreed.GHOST;
+        boolean skeleton = breed == EnumDragonBreed.SKELETON;
         
         float baseLength = 26;
         String baseName = hind ? "hind" : "fore";

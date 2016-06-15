@@ -21,12 +21,11 @@ import net.minecraft.util.DamageSource;
 public class DragonBreedEnd extends DragonBreed {
 
     DragonBreedEnd() {
-        super("ender", 0xab39be);
+        super("end", 0x583981);
         
         addImmunity(DamageSource.magic);
         
         addHabitatBlock(Blocks.END_STONE);
-        addHabitatBlock(Blocks.OBSIDIAN);
         addHabitatBlock(Blocks.END_BRICKS);
         
         addHabitatBiome(Biomes.SKY);
